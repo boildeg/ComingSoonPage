@@ -4,4 +4,4 @@
 
   Mobile size
   
-  <a href="https://ibb.co/Ws6bq5J"><img src="https://i.ibb.co/0Qcg82b/Screenshot-2022-02-13-at-20-18-08.png" alt="Screenshot-2022-02-13-at-20-18-08" border="0">
+<a href="https://ibb.co/pbZXx9D"><img src="https://i.ibb.co/Cmv0zTd/Screenshot-2022-02-13-at-20-18-08.png" alt="Screenshot-2022-02-13-at-20-18-08" border="0">
