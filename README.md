@@ -14,3 +14,9 @@ Desktop1 version
  
  
  <a href="https://ibb.co/h1Sbsv0"><img src="https://i.ibb.co/4gHzWxk/Screenshot-2022-02-13-at-20-23-45.png" alt="Screenshot-2022-02-13-at-20-23-45" border="0">
+  
+
+Desktop2 version
+
+
+<a href="https://ibb.co/dL5ZVSZ"><img src="https://i.ibb.co/cCrqZPq/Screenshot-2022-02-15-at-21-03-44.jpg" alt="Screenshot-2022-02-15-at-21-03-44" border="0">
