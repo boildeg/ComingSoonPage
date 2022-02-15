@@ -1,4 +1,4 @@
- Given a unique design in Figma, coded a responsive pixel-perfect "Coming soon" page.
+ Created unique design in Figma and coded a mobile-responsive pixel-perfect "Coming soon" page.
  
 
 <a href="https://ibb.co/TRJf2Pw"><img src="https://i.ibb.co/4MCqt4F/Screenshot-2022-02-13-at-20-06-21.png" alt="Screenshot-2022-02-13-at-20-06-21" border="0">
