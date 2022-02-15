@@ -88,21 +88,22 @@ form{
    display: flex;
 }
 
-input[type="text"]{
+input[type="email"]{
    width: 80%;
    height: 48px;
    box-sizing: border-box;
    border: 1px solid #333333;
-   border-radius: 3px;
+   border-radius: 3px 0 0 3px;
    opacity: 0.5;
    
 }
 
-input, ::placeholder{
+input[type="email"]::placeholder{
    padding-left: 10px;
 }
 
 input[type="submit"]{
+   -webkit-appearance: none;
    width: 20%;
    height: 48px;
    font-family: AdiHaus;
@@ -112,7 +113,7 @@ input[type="submit"]{
    background-color:#000000;
    color: #FFFFFF;
    border: 1px solid #333333;
-   border-radius: 3px;
+   border-radius: 0 3px 3px 0;
    opacity: 0.8;
    
 }
